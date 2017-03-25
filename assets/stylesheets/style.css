@@ -6321,7 +6321,7 @@ pre code {
   margin: 0 auto; }
 
 .docs .block {
-  margin-bottom: 60px; }
+  margin-bottom: 30px; }
 
 .docs .code-block {
   margin: 30px inherit; }
@@ -6337,7 +6337,7 @@ pre code {
 
 .license .title {
   margin-top: 0;
-  margin-bottom: 60px;
+  margin-bottom: 30px;
   color: #074f66; }
 
 .license .license-inner {
@@ -6360,7 +6360,7 @@ pre code {
   background-clip: padding-box; }
 
 .license .cta-container .speech-bubble {
-  background: white;
+  background: #d6f3fc;
   color: #074f66;
   padding: 30px;
   margin-bottom: 30px;
@@ -6432,20 +6432,20 @@ pre code {
 .contact .author-message .speech-bubble {
   margin-left: 155px;
   background: #10b2e7;
-  color: #074f66;
+  color: white;
   padding: 30px;
   border-radius: 4px;
   background-clip: padding-box;
   position: relative; }
 
 .contact .author-message .speech-bubble .sub-title {
-  color: #074f66;
+  color: white;
   font-size: 16px;
   margin-top: 0;
   margin-bottom: 30px; }
 
 .contact .author-message .speech-bubble a {
-  color: #fff; }
+  color: #074f66; }
 
 .contact .author-message .speech-bubble:after {
   position: absolute;
